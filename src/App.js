@@ -26,8 +26,8 @@ class App extends Component {
 		 <Link to="/aboutme">About Me</Link>
 		 <Link to="/projects">Projects</Link>
 		 <Link to="/contact">Contact</Link>
-		 <Link to="/page1">Page1</Link>
-		 <Link to="/page2">Page2</Link>
+		 <Link to="/page1">Books Collection</Link>
+		 <Link to="/page2">Design Collection</Link>
 		 <Link to="/page3">Page3</Link>
 		 <Link to="/page4">Page4</Link>
 		</Navigation>

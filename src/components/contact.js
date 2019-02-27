@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
-
+import avatar from '../img/1.png';
 
 class Contact extends Component {
  render() {
@@ -9,7 +9,7 @@ class Contact extends Component {
     <Grid className="contact-grid">
      <Cell col={6}> 
       <h2>Lovelyladylove</h2>
-      <img src="./img/2.png" alt="avatar" style={{height: '400px', width: '450px'}} />
+      <img src={avatar} alt="avatar" style={{height: '400px', width: '450px'}} />
       <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}> Let's be connected! .............................................................................................................................</p>
      </Cell>
      <Cell col={6}>
@@ -37,9 +37,8 @@ class Contact extends Component {
         </ListItem>
         <ListItem>
           <ListItemContent style={{fontSize: '30px', fontfamily: 'Anton'}}>
-            <i className="fa fa-home" />
-             58332 Schwelm 
-             Deuthland
+            <i className="fa fa-home" aria-hidden="true" />
+             58332 Schwelm, Deuthland
           </ListItemContent>
         </ListItem>
        </List>

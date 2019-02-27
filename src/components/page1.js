@@ -17,48 +17,48 @@ class Page1 extends Component {
      <List>
       <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://codepen.io"><i class="fab fa-codepen"></i></a>
+        <a target="/" href="https://codepen.io"><i class="fab fa-codepen" /></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://github.com"><i class="fab fa-github"></i></a>
+        <a target="/" href="https://github.com"><i class="fab fa-github"></i></a>
     
         </ListItemContent>
       </ListItem>
       <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+        <a target="/" href="https://twitter.com"><i class="fab fa-twitter"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://dev.to"><i class="fab fa-dev"></i></a>
+        <a target="/" href="https://dev.to"><i class="fab fa-dev"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://stackoverflow.com/story/"><i class="fab fa-stack-overflow"></i></a>
+        <a target="/" href="https://stackoverflow.com/story/"><i class="fab fa-stack-overflow"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://www.linkedin.com/n"><i class="fab fa-linkedin"></i></a>
+        <a target="/" href="https://www.linkedin.com/n"><i class="fab fa-linkedin"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://medium.com/"><i class="fab fa-medium"></i></a>
+        <a target="/" href="https://medium.com/"><i class="fab fa-medium"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
+        <a target="/" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
         </ListItemContent>
         </ListItem>
         <ListItem>
         <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
-        <a target="_blank" href="https://www.behance.net"><i class="fab fa-behance"></i></a>
+        <a target="/" href="https://www.behance.net"><i class="fab fa-behance"></i></a>
         </ListItemContent>
         </ListItem>
       </List>

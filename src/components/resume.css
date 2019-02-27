@@ -1,0 +1,18 @@
+.resume-body {
+    background: linear-gradient(132deg, #DD5E89, #c10b38, #061b28, #193645, #504c64);
+    background-size: 400% 400%;
+    animation: BackgroundGradient 30s ease infinite;
+    color: white;
+  }
+  
+  @keyframes BackgroundGradient {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+  }
+  
+.resume-right-col {
+      background:  #193645;
+      color: white;
+      padding: 2em;
+    }
