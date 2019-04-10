@@ -22,6 +22,7 @@ class Resume extends Component {
                 style={{height: '200px'}}
             />
           </div>
+          <div style={{margin: '10px 10px 10px 50px'}}>
           <h2 style={{paddingTop: '2em'}}>Lovely Wagemann</h2>
           <h4 style={{color: 'grey'}}>Full Stack Web Programmer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/ >
@@ -58,6 +59,7 @@ class Resume extends Component {
           <p>Deutsch</p>
           <p>Filipino</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+            </div>
         </Cell>
 
         <Cell className="resume-right-col" col={8}>

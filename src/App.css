@@ -92,9 +92,15 @@ height: 100%;
   .contact-list i {
     font-size: 30px;
     padding-right: 5rem;
+    color: white;
   }
-  
-  
+  .contact-list {
+    font-size: 20px;
+    color: white;
+  }
+
+
+
   /* contact page css */
   
   .avatar-img {
