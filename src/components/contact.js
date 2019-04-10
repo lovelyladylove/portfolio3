@@ -20,7 +20,7 @@ class Contact extends Component {
         <ListItem>
           <ListItemContent style={{fontSize: '25px', fontfamily: 'Anton'}}>
             <i className="fa fa-phone-square" aria-hidden="true" />
-              +140000000000
+              +4915168862502
           </ListItemContent>
         </ListItem>
         <ListItem>
@@ -31,8 +31,8 @@ class Contact extends Component {
         </ListItem>
         <ListItem>
           <ListItemContent style={{fontSize: '30px', fontfamily: 'Anton'}}>
-            <i className="fa fa-facebook-square" aria-hidden="true" />
-              +140000000000
+            <i className="fa fa-globe-americas" aria-hidden="true" />
+            https://lovewagemann.de/
           </ListItemContent>
         </ListItem>
         <ListItem>
